@@ -11,3 +11,5 @@ How to Run:
 -Clone the repository
 -Open the project in your IDE
 -Run the main file to start the calculator
+
+**How** Open the app and perform basic operations (add, subtract, multiply, divide).
